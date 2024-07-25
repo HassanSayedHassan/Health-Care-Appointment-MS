@@ -1,0 +1,9 @@
+# ninja log v5
+51	10517	7436407258247705	CMakeFiles/OOP_Assignment.dir/main.cpp.obj	d862d6b568e5dad3
+148	2334	7436435008801957	CMakeFiles/OOP_Assignment.dir/local_data.cpp.obj	38d013b452dd284d
+903	10694	7436407266776599	CMakeFiles/OOP_Assignment.dir/Appointment.cpp.obj	7878589ed848d8e0
+154	2028	7436428570234067	CMakeFiles/OOP_Assignment.dir/Session.cpp.obj	fc67f926573d089f
+128	2297	7436435008603932	CMakeFiles/OOP_Assignment.dir/user.cpp.obj	a725b6ea1a955337
+139	2479	7436435008709968	CMakeFiles/OOP_Assignment.dir/doctor.cpp.obj	73f96dd838586956
+15	2288	7436435007471157	CMakeFiles/OOP_Assignment.dir/Patient.cpp.obj	3e697f848b130f8b
+2479	4088	7436435032115746	OOP_Assignment.exe	7dc2c67143c4a578
